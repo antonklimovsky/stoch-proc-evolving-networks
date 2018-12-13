@@ -1,6 +1,7 @@
 # Stochastic processes on evolving networks
 
-This is a web site for the scientific network on
+## Scientific network description
 
-**Stochastic processes on evolving networks**
+It is the purpose of this scientific network to advance the rigorous
+mathematical theory of stochastic processes on (co)evolving networks.
 
