@@ -2,6 +2,7 @@
 
 ## Scientific network description
 
-It is the purpose of this scientific network to advance the rigorous
-mathematical theory of stochastic processes on (co)evolving networks.
+to advance the rigorous mathematical theory of stochastic processes on (co)evolving networks.
+
+Supported by the German Research Foundation [](media/)
 
